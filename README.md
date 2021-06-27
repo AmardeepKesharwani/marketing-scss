@@ -1,6 +1,6 @@
 # Static Landing Theme 
 
-it is a simple static landing theme made by Html, Scss
+it is a simple business site landing theme made by Html, Scss
 
 #### View []()
 
